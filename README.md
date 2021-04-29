@@ -12,5 +12,5 @@ In order to get the SCSS running I installed gulp, so when you open the project 
 npm install 
 gulp
 ```
-The password of admin is _(dKCf4B#WDFHYZTQZXO)_ and username is _(admin)_.
+The password of admin is _(dKCf4B#WDFHYZTQZXO)_ and username is _(admin)_. :)
 
