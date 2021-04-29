@@ -8,5 +8,9 @@ First of all I used a WAMP server in order to run it, created a localhost and in
 E.g ( C:\wamp64\www\project_goes_here )
 ```
 In order to get the SCSS running I installed gulp, so when you open the project run gulp in terminal after installing npm.
-The password of admin is (dKCf4B#WDFHYZTQZXO) and username is (admin).
+```bash
+npm install 
+gulp
+```
+The password of admin is _(dKCf4B#WDFHYZTQZXO)_ and username is _(admin)_.
 
