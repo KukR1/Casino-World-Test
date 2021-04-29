@@ -1,6 +1,6 @@
 
 # Casino World Test
-This is a test developed with mostly CSS, HTML JS as a WordPress custom theme
+This is a test developed with mostly CSS, HTML and JS as a WordPress custom theme
 
 ## Installation
 First of all I used a WAMP server in order to run it, created a localhost and installed WP in the www folder of wampserver. 
